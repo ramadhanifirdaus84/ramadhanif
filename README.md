@@ -1,4 +1,4 @@
-##Tugas Algoritma
+## Tugas Algoritma
 Nama:Ramadhani Firdaus  
 NIM:[251011700900]  
 Matkul:Algoritma dan Pemrograman  
