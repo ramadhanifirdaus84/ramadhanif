@@ -12,5 +12,5 @@ Soal 2 (Konversi Hari): Fokus pada Operasi Aritmatika dan Manipulasi Variabel. D
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[![Open In Colab](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
+[Klik Di Sini](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
 
