@@ -1,4 +1,4 @@
-# 📂 Repository Tugas Algoritma & Pemrograman
+# 📂 Repository Tugas Algoritma Dan Struktur Data
 **Nama:** Ramadhani Firdaus  
 **NIM:** 251011700900  
 **Program Studi:** Sistem Informasi - Universitas Pamulang
