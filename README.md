@@ -5,45 +5,30 @@
 
 ---
 
-## 📝 Deskripsi Proyek
-Repositori ini berisi kumpulan tugas mata kuliah Algoritma dan Pemrograman. Setiap tugas dirancang untuk mengasah logika pemrograman menggunakan bahasa Python, mulai dari dasar perulangan hingga manipulasi data kompleks.
-
----
-
-## 🚀 Daftar Tugas
-
-### [Pertemuan 5] - Manipulasi Data & Matriks
-Pada pertemuan ini, fokus utama adalah pengolahan data mahasiswa dan operasi aritmatika pada array 2 dimensi.
-
-#### **Tugas 1: Analisis Nilai Mahasiswa**
-* **Fokus:** Perhitungan rata-rata, pencarian nilai Maksimum (mahasiswa terpintar), dan Minimum (mata kuliah tersulit).
-* **Logika:** Mengolah dataset NIM, Nama, dan 4 Mata Kuliah.
-* 👉 [**Lihat Kode di Google Colab**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas_Pertemuan5_Soal1.ipynb)
-
-#### **Tugas 2: Operasi Matriks (Array 2D)**
-* **Fokus:** Penjumlahan, Pengurangan, dan Perkalian Matriks.
-* **Logika:** Memahami syarat ukuran matriks dan perkalian baris x kolom.
-* 👉 [**Lihat Kode di Google Colab**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas_Pertemuan5_Soal2.ipynb)
-
----
+## 🚀 Daftar Tugas Kuliah
 
 ### [Pertemuan 4] - Logika Dasar & Aritmatika
-Tugas awal untuk melatih struktur kendali dan operasi matematika dasar.
+Tugas ini berfokus pada penggunaan struktur perulangan (Looping) dan operasi matematika dasar.
+* **Soal 1:** FizzBuzz (Logika Modulus & If-Else).
+* **Soal 2:** Konversi Hari (Operasi Aritmatika Tahun, Bulan, Hari).
 
-#### **Soal 1: FizzBuzz**
-* **Fokus:** Perulangan (*Looping*) dan Kondisional (*If-Else*) menggunakan operator Modulus.
-* 👉 [**Lihat Kode di Google Colab**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
-
-#### **Soal 2: Konversi Hari**
-* **Fokus:** Operasi aritmatika untuk memecah total hari menjadi satuan Tahun, Bulan, dan Hari.
-* 👉 [**Lihat Kode di Google Colab**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
+👉 [**JALANKAN KODE PERTEMUAN 4 (GOOGLE COLAB)**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
 
 ---
 
-## 🌐 Demo Interaktif
-Selain melalui Google Colab, kamu juga bisa mencoba logika program ini melalui tampilan web interaktif (GitHub Pages):
+### [Pertemuan 5] - Manipulasi Data & Matriks
+Tugas ini berfokus pada pengolahan dataset mahasiswa serta pemahaman operasi pada Array 2 Dimensi.
+* **Tugas 1:** Analisis Nilai (Rata-rata, Nilai Maksimum & Minimum).
+* **Tugas 2:** Operasi Matriks (Penjumlahan, Pengurangan, & Perkalian Matriks).
 
-[**KLIK DI SINI UNTUK MEMBUKA DEMO WEB**](https://ramadhanifirdaus84.github.io/ramadhanif/)
+👉 [**JALANKAN KODE PERTEMUAN 5 (GOOGLE COLAB)**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas_Pertemuan5.ipynb)
 
 ---
-*Dibuat dengan ❤️ oleh Ramadhani Firdaus.*
+
+## 🌐 Demo Interaktif (Web)
+Bagi yang ingin mencoba simulasi logika program melalui antarmuka web yang lebih interaktif:
+
+[**BUKA DASHBOARD WEB INTERAKTIF**](https://ramadhanifirdaus84.github.io/ramadhanif/)
+
+---
+*Dibuat dengan ❤️ oleh Ramadhani Firdaus untuk tugas mata kuliah Algoritma.*
