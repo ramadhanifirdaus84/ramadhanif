@@ -25,10 +25,5 @@ Tugas ini berfokus pada pengolahan dataset mahasiswa serta pemahaman operasi pad
 
 ---
 
-## 🌐 Demo Interaktif (Web)
-Bagi yang ingin mencoba simulasi logika program melalui antarmuka web yang lebih interaktif:
 
-[**BUKA DASHBOARD WEB INTERAKTIF**](https://ramadhanifirdaus84.github.io/ramadhanif/)
-
----
 *Dibuat dengan ❤️ oleh Ramadhani Firdaus untuk tugas mata kuliah Algoritma.*
