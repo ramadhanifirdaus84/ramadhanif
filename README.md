@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![UNPAM](https://img.shields.io/badge/Status-Mahasiswa%20SI-blue?style=for-the-badge)
 # 📂 Repository Tugas Algoritma Dan Struktur Data
 **Nama:** Ramadhani Firdaus  
 **NIM:** 251011700900  
