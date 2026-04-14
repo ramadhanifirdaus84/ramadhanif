@@ -55,6 +55,13 @@ Modul ini mengeksplorasi teknik pemrograman rekursif untuk menyelesaikan masalah
 
 👉 [**JALANKAN KODE PERTEMUAN 7**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Pertemuan%207.ipynb)
 
+---
+
+### 🔸 [Pertemuan 8] 
+
+👉 [**Comming Soon**]()
+
+
 ## 📝 Catatan Tambahan
 Seluruh kode di dalam repository ini dibuat untuk tujuan akademik. Silakan gunakan sebagai referensi belajar, namun tetap perhatikan etika akademik dalam penggunaan kode.
 
