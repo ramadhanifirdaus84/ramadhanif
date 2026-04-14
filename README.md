@@ -48,9 +48,12 @@ Modul ini beralih ke struktur data yang lebih kompleks, fokus pada pengolahan ko
 
 ---
 
-### 🚧 [Pertemuan 7]
+### 🔹 [Pertemuan 7] - Analisis Konsep Deret Fibonacci & Program Menu Interaktif
+Modul ini mengeksplorasi teknik pemrograman rekursif untuk menyelesaikan masalah melalui pemanggilan fungsi mandiri. Karena saya memiliki **NIM Genap**, fokus tugas 2 saya adalah pada aspek berikut:
+* **Tugas 1: Analisis Konsep Deret Fibonacci** Implementasi fungsi rekursif untuk menghasilkan deret angka. Saya menganalisis alur *base case* dan *recursive step* melalui metode penelusuran manual (*tracing*) guna memahami bagaimana struktur pohon rekursi terbentuk dalam memori.
+* **Tugas 2: Program Menu Interaktif** Pengembangan aplikasi berbasis CLI yang mencakup fungsi deret Fibonacci dan operasi perkalian $M \times N$. Fokus utama adalah menggunakan prinsip penjumlahan rekursif sebagai pengganti operator perkalian standar, serta pengelolaan menu menggunakan perulangan.
 
-👉 [**Coming Soon**]()
+👉 [**JALANKAN KODE PERTEMUAN 7**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Pertemuan%207.ipynb)
 
 ## 📝 Catatan Tambahan
 Seluruh kode di dalam repository ini dibuat untuk tujuan akademik. Silakan gunakan sebagai referensi belajar, namun tetap perhatikan etika akademik dalam penggunaan kode.
