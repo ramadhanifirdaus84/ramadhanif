@@ -48,7 +48,7 @@ Modul ini beralih ke struktur data yang lebih kompleks, fokus pada pengolahan ko
 
 ---
 
-### 🔹 [Pertemuan 7]
+### 🚧 [Pertemuan 7]
 
 👉 [**Coming Soon**]()
 
