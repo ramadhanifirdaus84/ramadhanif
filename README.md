@@ -48,6 +48,10 @@ Modul ini beralih ke struktur data yang lebih kompleks, fokus pada pengolahan ko
 
 ---
 
+### 🔹 [Pertemuan 7]
+
+👉 [**Coming Soon**]()
+
 ## 📝 Catatan Tambahan
 Seluruh kode di dalam repository ini dibuat untuk tujuan akademik. Silakan gunakan sebagai referensi belajar, namun tetap perhatikan etika akademik dalam penggunaan kode.
 
